@@ -18,4 +18,12 @@ class Solution {
         }
         return sMax;
     }
+
+
 };
+int main(){
+    vector<int> arr = {2, 3, 6, 6, 5};
+    Solution obj;
+    cout << obj.getSecondLargest(arr) << endl;
+    return 0;
+}
