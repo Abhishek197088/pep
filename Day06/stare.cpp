@@ -3,7 +3,6 @@
 // example: input n =3 , output 3, 
 
 
-
 #include<iostream>
 using namespace std;
 

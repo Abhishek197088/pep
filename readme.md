@@ -37,3 +37,4 @@
 ---
 
 > Tip: Use a short GIF you like (hosted on Giphy or in repo) and tweak the typing SVG lines to match your tagline.
+> 
